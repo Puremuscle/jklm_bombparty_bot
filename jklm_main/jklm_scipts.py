@@ -150,4 +150,4 @@ def bombparty_game_start(code, type_delay, account_name, auto_rejoin):
 
 
 
-bombparty_game_start("FKRT",0.2, "best player", "y")
+#bombparty_game_start("FKRT",0.2, "best player", "y")
